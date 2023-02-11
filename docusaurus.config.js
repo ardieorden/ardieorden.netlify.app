@@ -65,7 +65,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'places-in-the-philippines-with-indoor-maps',
             position: 'left',
             label: 'Docs',
           },
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/docs/places-in-the-philippines-with-indoor-maps',
               },
             ],
           },
